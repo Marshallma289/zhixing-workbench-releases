@@ -4,7 +4,7 @@
 
 ## 下载与安装
 
-从 [最新版本](https://github.com/Marshallma289/zhixing-workbench-releases/releases/latest) 下载 `知行工作台_版本号_x64-setup.exe`，运行安装。首次安装需 Windows Edge WebView2；安装器会在缺失时引导安装。
+从 [最新版本](https://github.com/Marshallma289/zhixing-workbench-releases/releases/latest) 下载 `ZhixingWorkbench_版本号_x64-setup.exe`，运行安装。首次安装需 Windows Edge WebView2；安装器会在缺失时引导安装。
 
 如果当前安装的版本没有「设置与连接 → 应用更新」，请手动安装最新版本一次；以后可在应用内检查、下载并确认更新。更新前会自动创建工作数据备份；有运行中的 Agent 或未保存修改时，请先处理后再安装。
 
